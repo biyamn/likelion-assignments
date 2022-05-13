@@ -1,1 +1,1 @@
-# likelion-assignments
+멋쟁이사자들10기에서 한 과제들을 올립니다.
